@@ -16,9 +16,9 @@
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=remixor&show_icons=true&theme=radical" width="350"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ergindapaj&show_icons=true&theme=radical" width="350"/></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remixor&layout=compact&theme=radical"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergindapaj&layout=compact&theme=radical"/></a>
 </p>
