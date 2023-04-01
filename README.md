@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     Hi there, I am Ergin/Grainger! 👋<br>
-    I've been working with JavaScript and Node.js for over 4 years.<br>
+    I've been working with JavaScript and Node.js for over 5 years.<br>
     Freelancing and creating YouTube content with <a href="https://github.com/KristiSeraj">Coku</a>. 🌟<br>
     Check out my projects below! 🔭<br>
   </samp>
