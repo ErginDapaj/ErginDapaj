@@ -1,27 +1,38 @@
-### Warning: Mind-blowing skills ahead! :boom:
-
-Welcome to my world, where I am Ergin/Grainger - a Javascript and Node.js expert with over 4 years of experience in developing mind-blowing web applications. I am not just any freelancer, I am the one who can take your business to the next level with my top-notch skills.
-
-But wait, there's more! I am not just limited to coding. I also create jaw-dropping content on YouTube with my partner in crime, Coku. Together, we are a force to be reckoned with in the tech world.
-
-Don't believe me? Check out my GitHub profile and witness the magic yourself. But be warned, my skills are not for the faint-hearted. You might just be blown away by what you see!
-
-### :coffee: Support 
-<p align='center'>
-  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?label=MrMoth%20Devs%20Views&logoColor=%23ffff00&style=social"/></a>
-  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?logoColor=%23ffff00&style=social"/></a>
-</p>
-<p align='center'>
-<a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <br><br>
+  <samp>
+    Hi there, I am Ergin/Grainger! 👋<br>
+    I've been working with JavaScript and Node.js for over 4 years.<br>
+    Freelancing and creating YouTube content with <a href="https://github.com/KristiSeraj">Coku</a>. 🌟<br>
+    Check out my projects below! 🔭<br>
+  </samp>
 </p>
 
-### :bar_chart: Stats 
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ergindapaj&show_icons=true&theme=radical" width="350"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ergindapaj&style=flat-square" alt="profile views">
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergindapaj&layout=compact&theme=radical"/></a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ergindapaj&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
-And hey, if you like what you see and want to support my work, you can do so by subscribing to my YouTube channel, giving me a virtual coffee, or simply admiring my impressive stats. It's your call!
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergindapaj&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1">
+    <img alt="MrMoth Devs Views" src="https://img.shields.io/youtube/channel/views/UCnPiMm-Jp4P5B2dy7SstDjA?color=5865F2&label=MrMoth%20Devs%20Views&logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1">
+    <img alt="MrMoth Devs Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?color=5865F2&logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.buymeacoffee.com/mrmothdevs">
+    <img alt="Buy me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
